@@ -21,7 +21,7 @@ Then, create temporary views, cache a temporary table and partition the data, co
 
   ![Cache your temporary table](https://github.com/cami5326/.PNG)
   
-  ![Partition by the "date_built" field on the formatted parquet home sales data](https://github.com/cami5326/.PNG)
+  ![Partition parquet](https://github.com/cami5326/.PNG)
 
 
 
