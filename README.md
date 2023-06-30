@@ -20,11 +20,17 @@ Then, create temporary views, cache a temporary table and partition the data, co
 
 ## Performance
 
-**Temporary table runtime** ![Temporary table runtime](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Temporary%20table%20runtime.PNG)
+**Temporary table runtime** 
 
-**Partition parquet** ![Partition parquet](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Partition%20parquet.PNG)
+![Temporary table runtime](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Temporary%20table%20runtime.PNG)
 
-**Cache temporary table** ![Cache temporary table](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Cache%20your%20temporary%20table.PNG)
+**Partition parquet** 
+
+![Partition parquet](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Partition%20parquet.PNG)
+
+**Cache temporary table** 
+
+![Cache temporary table](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Cache%20your%20temporary%20table.PNG)
   
 
 
