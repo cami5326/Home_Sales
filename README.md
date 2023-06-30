@@ -17,6 +17,9 @@ Then, create temporary views, cache a temporary table and partition the data, co
 **4. What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.**
 
 
+
+## Performance
+
   **Temporary table runtime** ![Temporary table runtime](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Temporary%20table%20runtime.PNG)
 
   **Cache your temporary table** ![Cache temporary table](https://github.com/cami5326/Home_Sales/blob/main/Pictures/Cache%20your%20temporary%20table.PNG)
