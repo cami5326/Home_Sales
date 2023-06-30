@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 
 * The purpose here is to use SparkSQL to determine key metrics about a fictional home sales dataset. 
-Then create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+Then, create temporary views, cache a temporary table and partition the data, comparing the runtime performance.
 
 
 ## Questions
@@ -17,8 +17,9 @@ Then create temporary views, partition the data, cache and uncache a temporary t
 **4. What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.**
 
 
-  ![Cache your temporary table](https://github.com/cami5326/.PNG)
+  ![Temporary table runtime](https://github.com/cami5326/.PNG)
 
+  ![Cache your temporary table](https://github.com/cami5326/.PNG)
   
   ![Partition by the "date_built" field on the formatted parquet home sales data](https://github.com/cami5326/.PNG)
 
